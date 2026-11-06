@@ -1,0 +1,6 @@
+{
+  "name": "Radical Calculator",
+  "description": "Calculate radicals and roots of any index with real & complex support, radical simplifier, and root visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
